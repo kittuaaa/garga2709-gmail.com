@@ -1,0 +1,26 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "facebook-nodejs-ads-sdk": "^2.11.4",
+    "facebook-nodejs-business-sdk": "^6.0.2",
+    "fs": "0.0.1-security",
+    "googleapis": "^39.2.0",
+    "http": "0.0.0",
+    "morgan": "^1.10.0",
+    "passport-google-oauth": "^2.0.0",
+    "readline-promise": "^1.0.4"
+  }
+}
